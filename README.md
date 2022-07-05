@@ -9,7 +9,7 @@ and the repository exists.
 
 // 1. generate new ssh key
 
-ssh-keygen -t ed25519 -C "debra4117@gmail.com"
+ssh-keygen -t ed25519 -C "xxxx@gmail.com"
 
 // 2. paste the key
 
