@@ -35,5 +35,5 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 1. git fetch
-2. git pull respos
-3. git push
+2. git pull <https://github.com/52147/Interview-Question.git>
+3. git push 
