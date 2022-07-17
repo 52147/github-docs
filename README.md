@@ -37,3 +37,19 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 1. git fetch
 2. git pull <https://github.com/52147/Interview-Question.git>
 3. git push 
+
+
+##  To https://github.com/52147/1.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/52147/1.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+git add *
+git commit -m "abc"
+git fetch
+git pull origin main
+git push
