@@ -48,8 +48,8 @@ hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
-git add *
-git commit -m "abc"
-git fetch
-git pull origin main
-git push
+- git add *
+- git commit -m "abc"
+- git fetch
+- git pull origin main
+- git push
